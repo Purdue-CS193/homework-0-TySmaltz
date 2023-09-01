@@ -1,3 +1,9 @@
+# Ty Smaltz's First CS193 Homework
+- CS193 provides opportunities for students to become comfortable with CS in its different forms
+- CS193 provides opportunities for younger students to connect with more advanced CS Majors
+- Learning terminal comands is pretty cool
+- Lecturer Arman and Lecturer Eddie are both very proficient and well versed in the course material
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
